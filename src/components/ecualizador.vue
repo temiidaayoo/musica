@@ -11,7 +11,7 @@ const mov = 10;
 const incrementar  = () => {
 console.log("incrementar");
 
-    if (medidor.value > max){
+    if (medidor.value < max){
      medidor.value += mov;
     
     }
