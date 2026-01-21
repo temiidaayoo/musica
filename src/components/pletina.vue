@@ -31,7 +31,6 @@ const emit = defineEmits(['clickIcon'])
 
     <div class="buttons">
         <img class="icon-player" :src="icons[icon]" 
-        :src="button"
              @click="emit('clickIcon')"
              alt="icon">
              
