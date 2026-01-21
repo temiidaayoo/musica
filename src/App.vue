@@ -9,6 +9,8 @@ import track02 from '@/assets/music/Michael Jackson - Bad (lyrics).ogg'
 import track03 from '@/assets/music/Michael Jackson - Rock With You (Official Video - Upscaled).m4a'
 import track04 from '@/assets/music/Michael Jackson - You Rock My World (lyrics).ogg'
 import track05 from '@/assets/music/Michael Jackson – Remember the Time (Lyrics).ogg'
+import pletina from './components/pletina.vue';
+
 
 const trackList= [
     track01,
